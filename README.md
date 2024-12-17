@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto implementa un sistema de control de posición utilizando un **sensor ultrasónico** (HC-SR04), dos **motores DC**, y un controlador basado en espacio de estados. El código está diseñado para plataformas **Arduino** y emplea temporización mediante la librería **TimerOne**.
+Este proyecto implementa un sistema de control de posición utilizando un **sensor ultrasónico** (HC-SR04), un módulo puente H, dos **motores DC**, y un controlador basado en espacio de estados. El código está diseñado para plataformas **Arduino** y emplea temporización mediante la librería **TimerOne**.
 
 ---
 
