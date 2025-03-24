@@ -104,7 +104,7 @@ Este proyecto implementa un sistema de control de posición utilizando un **sens
 
 ## Créditos
 
-Proyecto desarrollado como sexto laboratio de la asignatura Sistemas de Control Automático II del programa de Ingeniería Electrónica de la Universidad del Quindío.
+Proyecto desarrollado como sexto laboratorio de la asignatura Sistemas de Control Automático II del programa de Ingeniería Electrónica de la Universidad del Quindío.
 
 Desarrollado por los estudiantes Daniel Alejandro Cangrejo López, Alvaro Sebástian Hernandez Ramirez y Andrea Carolina Soler.
 
